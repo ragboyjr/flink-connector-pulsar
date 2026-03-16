@@ -2,8 +2,6 @@
 
 This repository contains the official Apache Flink Pulsar connector.
 
-WIP
-
 ## Apache Flink
 
 Apache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities.
